@@ -1,0 +1,84 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  3.020 seconds
+Platform assembly: C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marco\Desktop\EyeSpy\EyeSpyMouseV_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.907208 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2aa8 -> priority: 1 
+  Thread -> id: ea4 -> priority: 1 
+  Thread -> id: 19c4 -> priority: 1 
+  Thread -> id: 2618 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.803664 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1185.
+Total: 0.329063 ms (FindLiveObjects: 0.044004 ms CreateObjectMapping: 0.017435 ms MarkObjects: 0.201755 ms  DeleteObjects: 0.065314 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Security Guard/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Security Guard/takedown"
+ 
+(Filename:  Line: 0)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.669672 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1181.
+Total: 0.229431 ms (FindLiveObjects: 0.042067 ms CreateObjectMapping: 0.017989 ms MarkObjects: 0.161349 ms  DeleteObjects: 0.007195 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Security Guard/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Security Guard/takedown"
+ 
+(Filename:  Line: 0)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.867078 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1181.
+Total: 0.236073 ms (FindLiveObjects: 0.044557 ms CreateObjectMapping: 0.016882 ms MarkObjects: 0.166884 ms  DeleteObjects: 0.006642 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Security Guard/hitbox"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Security Guard/takedown"
+ 
+(Filename:  Line: 0)
+
