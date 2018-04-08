@@ -4,6 +4,7 @@ The Hackathon was about involving motion devices in games which resulted in my t
 There are two versions EyeSpyMouseV and EyeSpyTobiiV<br />
 EyeSpyMouseV:Playable Without Eyetracker<br />
 EyeSpyTobiiV:Tobbii EyeTracker Required<br />
+[Downloads](https://github.com/M4rkFlor/EyeSpy/releases "Release Downloads")
 ![alt text](https://github.com/M4rkFlor/EyeSpy/blob/master/EyeSpy/Assets/Sprites/EyeSpyInteractable.png)
 ![alt text](https://github.com/M4rkFlor/EyeSpy/blob/master/EyeSpy/Assets/Sprites/EYESPYstealth.png)
 ![alt text](https://github.com/M4rkFlor/EyeSpy/blob/master/EyeSpy/Assets/Sprites/EYESPYGame.png)
